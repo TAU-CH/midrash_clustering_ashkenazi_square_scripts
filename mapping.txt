@@ -1,0 +1,63 @@
+ERFRT 9.jpg -> 1.jpg
+BNF hébreu 44.JPEG -> 2.jpeg
+parma 1854 f.6.jpg -> 3.jpg
+Parma 2812 f.5.jpg -> 4.jpg
+Bologna BU 2208.JPG -> 5.jpg
+Parma 3105 f.11.jpg -> 6.jpg
+Parma 2808 f.12.jpg -> 7.jpg
+NLI Heb 4° 5827.png -> 8.png
+Ms_or_quart_9_4v.tif -> 9.tif
+Braginsky IMG_1470.jpg -> 10.jpg
+BSB Cod.hebr. 4(1 2v.jpg -> 11.jpg
+BSB Cod.hebr. 212 50v.jpg -> 12.jpg
+Ms_or_fol_120_57v-58r.JPG -> 13.jpg
+BSB Cod. Hebr.  2 322v.jpg -> 14.jpg
+Kalonymus Bible Wroclaw.jpg -> 15.jpg
+cod_levy_0019_0146_0145.jpg -> 16.jpg
+BSB Cod. Hebr.  410 200v.jpg -> 17.jpg
+Ms. or. fol. 1214  275 v.jpg -> 18.jpg
+BL arundel_ms_2_f009v (1).jpg -> 19.jpg
+Vat.ebr.113_0020_fa_0007v.jpg -> 20.jpg
+hébr 36 Poligny BNF f 10r.JPEG -> 21.jpeg
+Florence  BNC II_I p. 14_7.JPG -> 22.jpg
+Ms. or. fol. 1217 ERFURT 8.jpg -> 23.jpg
+2 BNF hébr. 4 1286 Ashkenaz.JPG -> 24.jpg
+MUNICH BSB COD HEBR 52 256R.jpg -> 25.jpg
+Florence  BNC II_I_7 colophon.jpg -> 26.jpg
+Ms. or. fol. 1211 ERFURT 1 6r.jpg -> 27.jpg
+Wroclaw Saraval 9 Munster 1284.jpg -> 28.jpg
+Valmadonna 1 GC.MS.000858_page268.jpg -> 30.jpg
+Cambridge St. John's A 1 fol. 46r.jpeg -> 31.jpeg
+Ms. or. fol. 1216 ERFURT 7 00000001.jpg -> 32.jpg
+Munich BSB Cod. hebr. 212 f. 53r oath.jpg -> 33.jpg
+Ms. or. fol. 1215 PPN663193613_00000001.jpg -> 34.jpg
+Bodleian-Library-MS-Canon-Or-3_00020_7v.jpg -> 35.jpg
+Rothschild Pentateuch Getty 116 fol 105.jpg -> 36.jpg
+Bodleian-Library-MS-Bodley-Or-3_00020_1v.jpg -> 37.jpg
+Bodleian-Library-MS-Laud-Or-174_00012_2v.jpg -> 38.jpg
+Bodleian-Library-MS-Kennicott-3_00024_8v.jpg -> 39.jpg
+Bodleian-Library-MS-Michael-627_00018_7v.jpg -> 40.jpg
+Bodleian-Library-MS-Laud-Or-324_00018_6v.jpg -> 41.jpg
+Cambridge St. John's College MS A 3 132v.TIF -> 42.tif
+Bodleian-Library-MS-Bodley-Or-6_00046_19v.jpg -> 43.jpg
+BNF Hébreu 85, f. 112v - IFN-10539607 229.jpg -> 44.jpg
+Bodleian-Library-MS-Michael-619_00052_21v.jpg -> 45.jpg
+Bodleian-Library-MS-Reggio-1_00014_fol-5v.jpg -> 46.jpg
+Bodleian-Library-MS-Laud-Or-118_00060_28v.jpg -> 47.jpg
+Bodleian-Library-MS-Reggio-2_00010_fol-3v.jpg -> 48.jpg
+MS Opp. 161 fol. 43v 1342 Germany Ashkenaz.jpg -> 49.jpg
+Vat.ebr.468_0010_fa_0002v la rochelle 1215.tif -> 50.tif
+Bodleian-Library-MS-Oppenheim-13_00028_13v.jpg -> 51.jpg
+Bodleian-Library-MS-Bodley-Or-46_00226_103v.jpg -> 52.jpg
+MS Opp. 627 fol. 62r c. 1200 France Ashkenaz.jpg -> 53.jpg
+Bodleian-Library-MS-Bodley-Or-803_00056_121v.jpg -> 54.jpg
+Ossolineum Wroclaw Pawlikowski Collection 141.jpg -> 55.jpg
+Bodleian-Library-MS-Oppenheim-14_00024_fol-6v.jpg -> 56.jpg
+Bodleian-Library-MS-Bodley-Or-135_00009_3r (1).jpg -> 57.jpg
+Bodleian-Library-MS-Marshall-Or-3_00012_fol-2v.jpg -> 58.jpg
+Bodleian-Library-MS-Marshall-Or-7_00029_fol-10r.jpg -> 59.jpg
+Bodleian-Library-MS-Marshall-Or-1_00029_fol-11r.jpg -> 60.jpg
+Bodleian-Library-MS-Marshall-Or-51_00097_fol-44r.jpg -> 61.jpg
+Bodleian-Library-MS-Marshall-Or-59_00033_fol-10r.jpg -> 62.jpg
+MS Jesus College 95 fol 123 1296 Crest France Ashkenaz.jpg -> 63.jpg
+MS Opp. 338 fol. 73r 1288_1300 Saint Symphorien Ashkenaz France.jpg -> 64.jpg

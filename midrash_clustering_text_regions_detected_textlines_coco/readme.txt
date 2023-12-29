@@ -7,4 +7,4 @@ resized to have an average character height of 15 pixels, adjusted in terms of b
 "{image_file_name}_region_{x}_{y}_{x+width}_{y+height}.png"
 image_file_name: is an automatically assigned name consist of numbers. The mapping to the original names are saved in mapping.txt.
 x: top left x coordinate
-y:top left y coordinate
+y: top left y coordinate
